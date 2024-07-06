@@ -1,0 +1,27 @@
+{
+    "host": "localhost",
+    "N_PONDERADOR": 5,
+    "CRIPTO": false,
+    "img_routes": {
+        "DICE": [
+            "Sprites/dices/dice_1.png",
+            "Sprites/dices/dice_2.png",
+            "Sprites/dices/dice_3.png",
+            "Sprites/dices/dice_4.png",
+            "Sprites/dices/dice_5.png",
+            "Sprites/dices/dice_6.png"
+        ],
+        "DICE_BACKGROUND": "Sprites/dices/dice_background.png",
+        "DICE_LOGO": "Sprites/dices/dice_logo.png",
+        "INITIAL_BACKGROUND": "Sprites/background/background_inicio.png",
+        "GAME_BACKGROUND": "Sprites/background/background_juego.png",
+        "BUTTON": [
+            "Sprites/extra/button.png",
+            "Sprites/extra/button_pressed.png"
+        ],
+        "GLASS": "Sprites/extra/glass.png",
+        "WELCOME_LOGO": "Sprites/extra/logo_enunciado.png",
+        "LOGO": "Sprites/extra/logo.png",
+        "USER": "Sprites/extra/user_profile.png"
+    }
+}

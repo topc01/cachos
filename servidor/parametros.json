@@ -1,0 +1,16 @@
+{
+    "host": "localhost",
+    "CRIPTO": false,
+    "NUMERO_JUGADORES": 4,
+    "NUMERO_VIDAS": 6,
+    "N_PONDERADOR": 5,
+    "VALOR_PASO": 3,
+    "PROB_DUDAR": 0.3,
+    "PROB_ANUNCIAR": 0.5,
+    "USER_NAMES": [
+        "Pepe",
+        "Juan",
+        "Maria",
+        "Jose"
+    ]
+}

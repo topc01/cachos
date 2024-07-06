@@ -1,0 +1,17 @@
+<RCC>
+  <qresource prefix="background">
+    <file>background/background_juego.png</file>
+  </qresource>
+  <qresource prefix="dice">
+    <file>dices/dice_background.png</file>
+    <file>dices/dice_1.png</file>
+    <file>dices/dice_2.png</file>
+    <file>dices/dice_3.png</file>
+    <file>dices/dice_4.png</file>
+    <file>dices/dice_5.png</file>
+    <file>dices/dice_6.png</file>
+  </qresource>
+  <qresource prefix="extra">
+    <file>extra/user_profile.png</file>
+  </qresource>
+</RCC>
